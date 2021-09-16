@@ -1,6 +1,8 @@
 Welcome to Spaceballs Game
 ======================
 check out the Index.html file to play OR this live site hosted through Glitch: https://cssi-final-project-fjs.glitch.me
+
+
 Image credits go to the following:
 https://pe-images.s3.amazonaws.com/photo-effects/cc/stars/initial-stars-effect-photoshop.png
 
